@@ -109,9 +109,10 @@ body {
     width: 500px;
     background: #fff;
     border-radius: 6px;
-    padding: 10px 25PX;
+    padding: 10px 25px;
     opacity: 0;
     pointer-events: none;
+
 }
 
 .popup-info.active {
